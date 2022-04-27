@@ -15,8 +15,21 @@ body {
   
   table {
     border: 2px solid ;
-    width: 1000px;
+    width: 1400px;
     margin: auto;
     align-content: center;
   }
   
+  thead {
+    background-color: rgb(220, 45, 45);
+  }
+  
+  td {
+    border-top: 3px solid rgb(0, 0, 0);
+  }
+  
+  .code {
+    font-size: 16px;
+    font-family: monospace;
+    background-color: rgb(31, 154, 241);
+  }
