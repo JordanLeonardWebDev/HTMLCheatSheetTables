@@ -1,0 +1,22 @@
+body {
+    font-family: "Lucida Console", Courier, monospace;
+    background-color: white;
+  }
+
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  table {
+    border: 2px solid ;
+    width: 1000px;
+    margin: auto;
+    align-content: center;
+  }
+  
